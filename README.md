@@ -89,12 +89,14 @@
 
 <br clear="both">
 
-<img align="right" height="600" src="https://github.com/mfauzirh/mfauzirh/raw/main/assets/images/goodbye.gif"  />
+<div align="center">
+  <img height="600" src="https://github.com/mfauzirh/mfauzirh/raw/main/assets/images/goodbye.gif"  />
+</div>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Piromonarch.Piromonarch&"  />
+  <img src="https://count.getloli.com/@:Piromonarch?theme=asoul&padding=7&scale=1&align=top&pixelated=1&darkmode=0"  />
 </div>
 
 ###
