@@ -58,22 +58,24 @@
 
 ###
 
-<br clear="both">
-
-<div align="left">
-  <img height="400" src="https://camo.githubusercontent.com/ef682f45a295e358666333774bcce348639ecbcb8b206ee236c30f70be2a3636/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f316a674c44474431426e3237652f67697068792e676966"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="www.linkedin.com/in/noman-khan-5988ab33a" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="nk8696862@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
+<table width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <p>
+        Write your paragraph here! Share your story, your journey, your passion for coding, or anything you'd like your visitors to know about you. This is your space to connect and inspire! 💫
+      </p>
+    </td>
+    <td width="40%" align="center" valign="center">
+      <a href="www.linkedin.com/in/noman-khan-5988ab33a" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+      </a>
+      <br /><br />
+      <a href="nk8696862@gmail.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ###
 
