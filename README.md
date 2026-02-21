@@ -78,7 +78,7 @@
 ###
 
 <div align="center">
-  <img height="400" src="https://github.com/mfauzirh/mfauzirh/raw/main/assets/images/goodbye.gif"  />
+  <img height="800" src="https://github.com/mfauzirh/mfauzirh/raw/main/assets/images/goodbye.gif"  />
 </div>
 
 ###
